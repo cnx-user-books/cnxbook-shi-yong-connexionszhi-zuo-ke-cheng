@@ -1,0 +1,37 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>course composer</title>
+  <metadata>
+  <md:content-id>m25946</md:content-id><md:title>course composer</md:title>
+  <md:abstract>课程制作概述</md:abstract>
+  <md:uuid>ec70f3bc-7aff-4d8d-b8a3-2866b2c24d1d</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1166879160867">
+      <emphasis effect="bold">course composer简介</emphasis>
+    </para>
+    <para id="id8185158">Course composer可以让你在connexions上创建一门新的课程或是修改一门既有的课程，你可以利用Course composer实现以下这些功能：</para>
+    <list id="id1166874999621" list-type="bulleted">
+      <item>创建新的课程</item>
+      <item>输入识别新课程的元数据</item>
+      <item>添加新的段节</item>
+      <item>添加子段节</item>
+      <item>添加模块</item>
+      <item>提供可选择的模块名称</item>
+      <item>选择模块版本</item>
+      <item>编辑或添加链接</item>
+      <item>重新安排课程内容</item>
+      <item>移除课程内容</item>
+      <item>给课程合作者分配角色</item>
+      <item>设置注释参数</item>
+      <item>预览课程</item>
+      <item>编辑课程</item>
+    </list>
+    <figure id="id1166874722535">
+      <media id="id1166874722535_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics1-0699.png" id="id1166874722535__onlineimage" height="206" width="576"/>
+      </media>
+    </figure>
+    <para id="id4574026">Course composer的编辑界面</para>
+  </content>
+</document>

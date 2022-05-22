@@ -1,0 +1,82 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>创建模块</title>
+  <metadata>
+  <md:content-id>m24860</md:content-id><md:title>创建模块</md:title>
+  <md:abstract>详细介绍如何创建模块</md:abstract>
+  <md:uuid>042cc7bb-1d56-4aca-bda8-4c89ef945bbe</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1165897232786">
+      <title>快速创建模块</title>
+      <para id="id1165895125877">在Connexions里，你不需要写一个大文件，你可以写下一些小的、内容齐全的被称作信息块的模块，然后将他们组成一个集合（包括课程、书籍、报告、调查等）。模块最简单的形式甚至可以只包含文本。你也可以增加一些表格、图片、音频、视频等等使之变得更有趣。模块是用一种标记语言来保存的，叫做CNXML，是我们的可扩展标记语言。</para>
+      <para id="id1165895188954">如下有一些创建模块的基本步骤。如果要获得更加细节性的指导，请点击网站中的超链接。</para>
+      <section id="id1165895074120">
+        <title>1、开始</title>
+        <figure id="id1165897714565">
+          <media id="id1165897714565_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics1-a428.png" id="id1165897714565__onlineimage" height="77" width="77"/>
+          </media>
+        </figure>
+        <para id="id1165902721115">获取一个账号，登陆到个人工作区</para>
+        <list id="id1165895410987" list-type="bulleted">
+          <item>获取账号——这个非常简单，也是免费的。你需要通过一个有效的邮箱来激活账号。</item>
+          <item>在此登陆——或者你可以直接点击<emphasis effect="bold">MyCNX</emphasis>登陆。</item>
+        </list>
+      </section>
+      <section id="id1165895074701">
+        <title>2、创建内容</title>
+        <figure id="id1165895189890">
+          <media id="id1165895189890_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics2-8621.png" id="id1165895189890__onlineimage" height="77" width="76"/>
+          </media>
+        </figure>
+        <para id="id1165897678258">从开始创建一个模块或者从word里面转换一个文件过来。</para>
+        <section id="id4353361">
+          <title>A 在你的工作区创建一个模块</title>
+          <list id="id1165895075114" list-type="bulleted">
+            <item>点击<emphasis effect="bold">MyCNX，</emphasis>展开你的工作区</item>
+            <item>在你的工作区创建一个新模块。从下面的列表中选择“模块”，点击“创建新项目”按钮。</item>
+            <item>阅读并且同意使用《基本原创许可》</item>
+            <item>给模块取一个题目，并且选择一种语言。</item>
+          </list>
+        </section>
+        <section id="id1165895189969">
+          <title>B 在模块中添加内容</title>
+          <para id="id1165903391637">有三种方式可以编辑模块：即时编辑，你可以选择特定的模块进行编辑；在线全信息XML编辑；导入导出工具。你可以从一个已经存在的文件中（word，OpenOffice, 或者 XML）或者使用在线编辑创建内容。</para>
+          <para id="id1165903528089">如果你想导入一个文件，使用如下步骤即可。简单说来，我们列出了如下步骤导入一个word文档。</para>
+          <list id="id1165897615522" list-type="enumerated" number-style="arabic" mark-suffix="、">
+            <item>在你电脑上下载并安装我们的文档模板。</item>
+            <item>选择Connexions.dot图标，创建一个新的word文档。</item>
+            <item>给文件中的内容选择应用合适的字体。</item>
+            <item>将word文档上载至你在工作区中创建的模块中。</item>
+            <item>在即时编辑器中滚动内容模块，确保它能按照设想的方式呈现。</item>
+          </list>
+          <para id="id7413547">或者，如果你想在我们的在线编辑器中创建内容，可以采用如下步骤。你可以使用即时编辑器或者使用完整的源XML编辑器。因为即时编辑器对CNXML知识要求比较少，因此，我们将它的使用步骤列于下方：</para>
+          <list id="id4422355" list-type="enumerated" number-style="arabic" mark-suffix="、">
+            <item>在新模块中点击编辑标签。</item>
+            <item>点击方框“点击添加文本”。一个空文本框出现了。</item>
+            <item>键入你的内容。当你点击保存时，空文本框里会出现被你添加的内容。</item>
+            <item>你可以在你刚才创建的段落的上下方添加更多的章节和元素（包括列表、等式、表格、数字等等。）</item>
+          </list>
+        </section>
+      </section>
+      <section id="id1165895125884">
+        <title>3、发布</title>
+        <figure id="id1165895186153">
+          <media id="id1165895186153_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics3-8448.png" id="id1165895186153__onlineimage" height="77" width="77"/>
+          </media>
+        </figure>
+        <para id="id1165895647908">发布你的作品，与全世界的人共享。</para>
+        <para id="id1165895071085">采用如下步骤，可以完成模块的创建过程。</para>
+        <list id="id1165895074107" list-type="bulleted">
+          <item>通过在线预览和打印预览两种方式确保你的模块能按照你设想的方式呈现。</item>
+          <item>点击发布标签，发表一个原创性的声明，然后点击发布按钮。</item>
+        </list>
+        <para id="id7145383">恭喜！你已经成功的创建了一个Connexions模块。如果你需要更多的信息，请查阅《新手指南》或者《Connexions参考指南》</para>
+        <para id="id1165896869103"/>
+      </section>
+    </section>
+  </content>
+</document>

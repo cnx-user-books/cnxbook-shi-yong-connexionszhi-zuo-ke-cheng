@@ -1,0 +1,27 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>发布课程</title>
+  <metadata>
+  <md:content-id>m25961</md:content-id><md:title>发布课程</md:title>
+  <md:abstract>如何发布课程</md:abstract>
+  <md:uuid>f963eb53-3a88-4a6f-9016-050f36ebfc7a</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1166965610828">发布课程</para>
+    <para id="id1166965683637">经过发布的课程可供任何人在因特网上浏览。一旦课程完成，你就可以按如下步骤来发布：</para>
+    <list id="id5834933" list-type="enumerated" number-style="arabic">
+      <item>确认你的元数据输入、角色分配和在线版本是否设置正确。</item>
+      <item>点击“发布（Pubilish）”标签。</item>
+      <item>在“修改描述（Description of Change）”处键入校订版课程的简要说明，这个说明文档会显示在课程的修订历史页面上。</item>
+      <item>点击“发布（Publish）”。</item>
+    </list>
+    <para id="id1166965975812">这时，课程就在connexions上发布了。你任何时候都可以利用Course Composer来审阅它。</para>
+    <para id="id1166965982816">提示：在课程发布以前，角色“作者”、“课程维护者”和“版权持有者”都必须指定到特定用户，并且，所有的准角色申请请求都必须经过了处理（接受或是拒绝）。</para>
+    <figure id="id8590336">
+      <media id="id8590336_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics1-1f62.png" id="id8590336__onlineimage" height="368" width="577"/>
+      </media>
+    </figure>
+    <para id="id1166965742229">课程发布</para>
+  </content>
+</document>

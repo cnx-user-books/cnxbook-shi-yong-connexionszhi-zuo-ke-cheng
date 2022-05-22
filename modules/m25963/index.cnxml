@@ -1,0 +1,23 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>编辑既有课程</title>
+  <metadata>
+  <md:content-id>m25963</md:content-id><md:title>编辑既有课程</md:title>
+  <md:abstract>如何编辑已有课程</md:abstract>
+  <md:uuid>53f385d3-e4a1-4d20-a045-04869e607631</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1170041384776">编辑既有课程</para>
+    <para id="id1170036561585">你可以用Course Composer创建新课程的方式同样来编辑一门既有的课程。当然，只有你是该门课程的的课程维护员时，你才有权限进行课程的编辑。对课程进行编辑你可以按以下步骤来进行操作：</para>
+    <list id="id1170043475617" list-type="enumerated" number-style="arabic">
+      <item>点击“搜索发布内容（Search for Published Content）”。这时，屏幕会显示“搜索Connexions资源库（Search the Connexions repository）”。</item>
+      <item>在搜索框里输入与课程相关的词或字符串。</item>
+      <item>取消复选框中的“模块（Module）”选择。保持复选框中的“课程（Course）”选择。</item>
+      <item>点击“搜索（search）”。这时会显示符合搜索条件的对象列表。</item>
+      <item>在复选框中选择特定课程。</item>
+      <item>从“添加内容到（Add selected content to）”下拉菜单中选择放置该课程的工作空间或工作组。</item>
+      <item>点击“添加（Add）”。该课程就被添加到特定的工作空间或工作组中了。</item>
+      <item>打开Course Composer中的课程，如前面“创建新课程”部分所介绍的方法对课程进行编辑。</item>
+    </list>
+  </content>
+</document>

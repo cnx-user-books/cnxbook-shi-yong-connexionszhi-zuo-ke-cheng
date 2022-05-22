@@ -1,0 +1,212 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>添加多媒体</title>
+  <metadata>
+  <md:content-id>m24864</md:content-id><md:title>添加多媒体</md:title>
+  <md:abstract>本部分讲述如何添加多媒体</md:abstract>
+  <md:uuid>5448456b-fcdc-4487-a5c5-f141e4d82fb7</md:uuid>
+</metadata>
+
+<content>
+    <section id="id5182172">
+      <title>如何添加多媒体</title>
+      <para id="id2356525">Connexions模块可以包含多种不同型式的多媒体。任何可以放在网页里的多媒体对象型式，都可以通过使用CNXML的media（媒体）标签将其放置在Connexions模块里。此模块将介绍如何将不同型式的多媒体对象增加至一个模块里。</para>
+      <para id="id1165897018424">多媒体对象的型式大致包括图片、Flash、影片和声音文件等等。由于不同型式多媒体对象的添加方式基本相同，因此此模块以图片文件的添加说明为主，其他型式的多媒体对象只作简要介绍。</para>
+    </section>
+    <section id="id5404232">
+      <title>增加多媒体的重要注意事项</title>
+      <list id="id4281441" list-type="bulleted">
+        <item>此模块里所展示的CNXML例子，是特别指定在此模块所使用的媒体工具，如果您将其复制到您的模块里，请对代码做适当修改以适合您情况下的CNXML。</item>
+        <item>您所要放置在模块里的媒体对象必须具有一个可用的MIME (Multipurpose Internet Mail Extension)协议型式。MIME协议是一个可以让数据传输的通讯协议，例如声音或影片，通过网络，而不需要转为ASCII码。</item>
+        <item>您可以使用任何型式的媒体对象，只要它是可用的MIME型式。 </item>
+        <item>您可以使用param（参数）标签以控制多媒体对象的选项或参数。 </item>
+      </list>
+    </section>
+    <section id="id1494541">
+      <title>图片</title>
+      <para id="id5065708">使用在Connexions模块里符合MIME型式的图片文件型式包括：</para>
+      <list id="id1165903389118" list-type="bulleted">
+        <item>eps - media type="application/postscript" </item>
+        <item>png - media type="image/png" </item>
+        <item>jpeg - media type="image/jpeg" </item>
+        <item>gif - media type="image/gif" </item>
+      </list>
+      <para id="id1165897551802">以上所列并不包含所有的型式，任何可用的<link url="http://www.duke.edu/websrv/file-extensions.html">MIME type</link>型式的图片都可以使用在模块里。 </para>
+      <para id="id1165896941332">需要添加至模块的图片，可以直接是网络上的图片，或者是已经上传至您的workplace的图片，具体上传操作如下：</para>
+      <para id="id4843720"><figure id="id1165897065946"><media id="id1165897065946_media" alt=""><image mime-type="image/jpg" src="../../media/graphics1.jpg" id="id1165897065946__onlineimage" height="157" width="213"/></media></figure>点击“Create New Item”：</para>
+      <figure id="id1930772">
+        <media id="id1930772_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics2.jpg" id="id1930772__onlineimage" height="315" width="439"/>
+        </media>
+      </figure>
+      <para id="id1165902752468">进入左图所示的界面后点击“浏览”上传您的图片。</para>
+      <para id="id1165906634299">在线应用<emphasis effect="underline">Edit In Place</emphasis>进行模块编辑时，无法直接添加多媒体，因此需要使用<emphasis effect="underline">full-source XML editing</emphasis>，并且在模块的index.cnxml文件里手动填写所需的CNXML代码。所插入代码应填写在&lt;content&gt;与&lt;/content&gt;之间。具体的代码属性和编写方式请查阅<emphasis effect="italics">CNXML Language Specification（CNXML语言说明）</emphasis>里关于<link url="http://cnx.org/technology/cnxml/0.5/spec/#media">媒体</link>标签的描述，以获得更多信息。</para>
+      <figure id="id1165896890631">
+        <media id="id1165896890631_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics3.jpg" id="id1165896890631__onlineimage" height="266" width="449"/>
+        </media>
+      </figure>
+      <para id="id2624046">
+        <emphasis effect="underline">full-source XML editing运行环境</emphasis>
+      </para>
+      <para id="id1165901562640">插入单张图片的代码类似于下列的例子： </para>
+      <para id="id4591154">&lt;figure id="cute-girl"&gt;</para>
+      <para id="id1165895924784">&lt;title&gt;a girl&lt;/title&gt;</para>
+      <para id="id1165896547429">&lt;media id="girlpic" alt="A girl"&gt;</para>
+      <para id="id1165901514629">&lt;image mime-type="image/jpeg" src="girl.jpg"/&gt;</para>
+      <para id="id5608660">&lt;/media&gt;</para>
+      <para id="id1165895336273">&lt;caption&gt;</para>
+      <para id="id1165900751050">Notice a girl.</para>
+      <para id="id1165894023132">&lt;/caption&gt;</para>
+      <para id="id7183088">&lt;/figure&gt;</para>
+      <para id="id4863699">media媒体标签里的src属性，是给定图片的位置或来源。例子中的图片是已经事先上传至workplace里了，所以属性是一个文件名；如果一个图片文件储存在因特网上的其它地方，属性可以是一个完整的URL网址。</para>
+      <para id="id1165903509961">上方CNXML例子的实际显示为： </para>
+      <para id="id1165900623194">Figure 1: Notice a girl.</para>
+      <para id="id5094032">您可以使用subfigure标签把两个图片放置在相同的figure（插图）里。当您有两个相关图片，而想要将其并列放置或者上下放置时，这个标签相当有用；要在同一个插图里显示两个图片，代码类似于下列的例子： </para>
+      <para id="id1165902786300">&lt;figure id="figure-2" orient="horizontal"&gt;</para>
+      <para id="id2845053">&lt;subfigure id="subfigure-1"&gt;</para>
+      <para id="id5565514">&lt;title&gt;较小的图&lt;/title&gt;</para>
+      <para id="id1165895847848">&lt;media id="babypic" alt="A girl"&gt;</para>
+      <para id="id2657988">&lt;image mime-type="image/jpeg" src="girl.jpg"/&gt;</para>
+      <para id="id7275594">&lt;/media&gt;</para>
+      <para id="id1165896900145">&lt;caption&gt;</para>
+      <para id="id1165901235466">子插图1</para>
+      <para id="id1165894020274">&lt;/caption&gt;</para>
+      <para id="id5530141">&lt;/subfigure&gt;</para>
+      <para id="id4286068">&lt;subfigure id="subfigure-2"&gt;</para>
+      <para id="id739405">&lt;title&gt;较大的图&lt;/title&gt;</para>
+      <para id="id1165896009816">&lt;media id="boypic" alt="A boy"&gt;</para>
+      <para id="id5619336">&lt;image mime-type="image/jpeg" src="boy.jpg"/&gt;</para>
+      <para id="id1165901614355">&lt;/media&gt;</para>
+      <para id="id1165897612860">&lt;caption&gt;</para>
+      <para id="id2186315">子插图2</para>
+      <para id="id4820388">&lt;/caption&gt;</para>
+      <para id="id8012354">&lt;/subfigure&gt;</para>
+      <para id="id1165902804141"> &lt;caption&gt;</para>
+      <para id="id1165901588519">在一个插图里水平显示两个图片</para>
+      <para id="id1165900713565">&lt;/caption&gt;</para>
+      <para id="id1165900756593">&lt;/figure&gt;</para>
+      <para id="id1165893504475">上方CNXML例子的实际显示为： </para>
+      <table id="id5521974" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entrytbl cols="3">
+                <colspec colnum="1" colname="c1"/>
+                <colspec colnum="2" colname="c2"/>
+                <colspec colnum="3" colname="c3"/>
+                <tbody>
+                  <row>
+                    <entry>较小的图较大的图<media id="id1165900992692" alt=""><image mime-type="image/jpg" src="../../media/graphics5.jpg"/></media>(a) <emphasis effect="bold">子插图</emphasis><media id="id4148980" alt=""><image mime-type="image/jpg" src="../../media/graphics6.jpg"/></media>(b) <emphasis effect="bold">子插图2</emphasis></entry>
+                    <entry namest="c2" nameend="c3"/>
+                  </row>
+                  <row>
+                    <entry namest="c1" nameend="c2"/>
+                    <entry/>
+                  </row>
+                </tbody>
+              </entrytbl>
+            </row>
+            <row>
+              <entry>Figure 2: 在一个插图里水平显示两个图片。</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1165902800178">orient（方向）属性值可以是horizontal（水平）或vertical（垂直），以及定义图片如何安排在插图（figure）里。 </para>
+    </section>
+    <section id="id1165906745953">
+      <title>模块的在线版本及打印版本所包含的图片</title>
+      <para id="id1165901321156">如果您模块里面图片的大小，符合您在线观看时的大小，但当您打印此模块时却显得太大时；Connexions让您可以在模块里插入一个附加的图片文件，让其格式及大小符合打印版本所需。eps格式的图片文件，是使用在Connexions模块打印版本里较佳的格式。如果您的模块包含相同图片的eps文件及png文件；当Connexions产生一个打印版本的PDF档时，Connexions会使用eps文件；而如果在在线显示模块时，会使用png文件。 </para>
+      <para id="id1165894284058">底下是说明如何在您的模块里为打印版本插入附加的图片文件： </para>
+      <list id="id1165901706481" list-type="enumerated" number-style="arabic">
+        <item>请建立您的图片文件的一个eps格式版本，这个图片应调整成适合的大小。 </item>
+        <item>请在index.cnxml文件里插入这个eps文件的代码，位于在线显示的图片代码的上方。此图片文件应该有相同的名称，而扩展名应该指定其文件型式。例如，image1.png是给在线使用的，而image1.eps是给打印使用的。 </item>
+        <item>请增加eps图片文件至此模块。 </item>
+      </list>
+      <para id="id2003838">底下是需要包含附加图片所需的CNXML代码的一个例子： </para>
+      <para id="id2481999">&lt;figure id=" printimage"&gt;</para>
+      <para id="id1165906602220">&lt;title&gt;a boy&lt;/title&gt;</para>
+      <para id="id1165894029437">&lt;media id="boypic" alt="A boy"&gt;</para>
+      <para id="id1165896850638">&lt;image mime-type=" application/postscript" src=" boy.eps "/&gt;</para>
+      <para id="id1165897089066">&lt;media type='image/png' src='boy.png'/&gt;</para>
+      <para id="id1165897616902">&lt;/media&gt;</para>
+      <para id="id1165895325425">&lt;caption&gt;</para>
+      <para id="id712938">Notice a boy.</para>
+      <para id="id5210105">&lt;/caption&gt;</para>
+      <para id="id5057627">&lt;/figure&gt;</para>
+      <para id="id1165893881815"/>
+      <section id="id1165894804255">
+        <title>注意: </title>
+        <para id="id1165901334283">在index.cnxml文件里，打印图片（eps）的输入必须出现在在线图片（png）的输入上方；在线图片的输入应该写在一个标签里，以及被嵌入在另一个打印图片输入里面。 </para>
+      </section>
+    </section>
+    <section id="id1444576">
+      <title>建立一个图片连结至一个较大的版本</title>
+      <para id="id1165901580548">您也可以显示一个图片，让它被点击后显示成一个较大版本的图片。底下是其处理的方法： </para>
+      <list id="id1165896505492" list-type="enumerated" number-style="arabic">
+        <item>请建立您的图片文件的一个缩图版本。 </item>
+        <item>请将原图大小及缩图大小的图片插入至一个media type（媒体型式）输入，如下列例子所示。 </item>
+        <item>请增加原图大小及缩图的图片文件至模块里。 </item>
+      </list>
+      <para id="id1165897225250">底下是含有一个缩图图片连结至一个原图版本所需的CNXML代码例子： </para>
+      <para id="id7559408"> &lt;figure id="thumbnail"&gt;</para>
+      <para id="id1165901385769">&lt;title&gt;thumbnail&lt;/title&gt;</para>
+      <para id="id1165896800314">&lt;media id="thumbnail" alt="thumbnail"&gt;</para>
+      <para id="id1165900935257">&lt;image mime-type="image/jpeg" src="boy_med.jpg"/&gt;</para>
+      <para id="id2109910">&lt;param name="thumbnail" value="boy_thumb.jpg"/&gt; &lt;/media&gt;</para>
+      <para id="id7715610">&lt;caption&gt;</para>
+      <para id="id1165895695603">Notice a boy.</para>
+      <para id="id1165894081982">&lt;/caption&gt;</para>
+      <para id="id1165903029853">&lt;/figure&gt;</para>
+    </section>
+    <section id="id1165895334121">
+      <title>其他型式的媒体对象</title>
+      <para id="id4659864">对于其他型式的媒体对象来说，所插入的代码基本相同，需要改变的代码是如下划线的部分：</para>
+      <para id="id1165897176217">&lt;<emphasis effect="underline">image</emphasis> mime-type="<emphasis effect="underline">image/jpeg</emphasis>" src="boy.<emphasis effect="underline">jpg</emphasis>"/&gt;</para>
+      <para id="id4239343">不同型式的媒体对象代码如下例所示：</para>
+      <list id="id1165898187929" list-type="bulleted">
+        <item>flash- &lt;flash mime-type="application/x-shockwave-flash" src="flash. swf"/&gt; </item>
+        <item>audio- &lt;audio mime-type ="audio/mpeg" src="down.mp3"/ &gt; </item>
+        <item>video- &lt;video mime-type="video/mov" src="howto.mov"/&gt; </item>
+      </list>
+      <para id="id1165903240455">以上所列并不包含所有的型式。</para>
+    </section>
+    <section id="id3620940">
+      <title>媒体型式参数</title>
+      <para id="id1165902635300">一些多媒体对象需要一些选项或参数以适当地显示出来，您可以通过param（参数）标签传递信息至多媒体对象，此标签在media（媒体）标签里，而不需要变更media（媒体）标签。请查阅<emphasis>CNXML Language Specification（CNXML语言说明书）</emphasis>里有关<link url="http://cnx.org/technology/cnxml/0.5/spec/#param">param</link>标签的描述，以获得更多信息。 </para>
+      <para id="id7732076">底下是一个影片（mpg）对象的param（参数）标签输入的例子： </para>
+      <para id="id1804812"/>
+      <para id="id1165897069290">  &lt;media id="video" alt="video"&gt;</para>
+      <para id="id1165901687823">&lt;video mime-type type="video/mpeg" src="testmovie.mpg"/&gt;</para>
+      <para id="id1165895426776">  &lt;param name="width" value="300"/&gt;</para>
+      <para id="id1165897049473">  &lt;param name="height" value="300"/&gt;</para>
+      <para id="id1165894113791">  &lt;/media&gt;</para>
+      <section id="id1838824">
+        <title>注意: </title>
+        <para id="id1165894284908">您应该对任何影片、Flash对象设定高度（height）及宽度（width）参数，使它们在在线以适合的大小显示；预设使用的高度及宽度单位为像素，在上方例子中，影片显示成300 pixel乘以300 pixel的方格。 </para>
+        <para id="id5435636">不同的多媒体对象型式，支持及对应于不同的参数，一些相异的多媒体对象型式所使用到的一些参数例子如下： </para>
+        <list id="id1165895757444" list-type="bulleted">
+          <item>Images (image/*): height, width, title, alt </item>
+          <item>Flash (application/x-shockwave-flash): height, width, base </item>
+          <item>Video (video/*): height, width, classid, codebase, autostart </item>
+          <item>Audio (audio/*): title, volume </item>
+        </list>
+      </section>
+      <section id="id1165897932557">
+        <title>注意: </title>
+        <para id="id4528368">param（参数）标签，允许您指定插入至XHMTL文件的一个对象在计算机运作时的设定。 </para>
+      </section>
+    </section>
+    <section id="id1165897497200">
+      <title>param（参数）及替换图片</title>
+      <para id="id7750377">如果您使用嵌入式的media（媒体）标签以提供一个替换图片显示，例如一个照片出现在模块的打印版本，以取代出现在在线版本的一个影片；请在替换图片的被嵌入的media媒体输入之前，插入原本影片的param（参数）输入，如同下列例子所示： </para>
+      <para id="id4530217">  &lt;media id="video" alt="video"&gt;</para>
+      <para id="id1796196">&lt;video mime-type type="video/mov" src="howto.mov"/&gt;</para>
+      <para id="id1165895693591">  &lt;param name="height" value="250" /&gt;</para>
+      <para id="id1165900383366">&lt;param name="width" value="250" /&gt;</para>
+      <para id="id6255600">&lt;media type="image/png" src="novideo.png /&gt;</para>
+      <para id="id1165894079031">  &lt;/media&gt;</para>
+    </section>
+  </content>
+</document>

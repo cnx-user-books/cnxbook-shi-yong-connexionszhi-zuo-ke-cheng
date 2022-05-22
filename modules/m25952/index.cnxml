@@ -1,0 +1,39 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>编辑或添加链接</title>
+  <metadata>
+  <md:content-id>m25952</md:content-id><md:title>编辑或添加链接</md:title>
+  <md:abstract/>
+  <md:uuid>2f3fc592-3134-49d0-90d8-e438301edd62</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1172290762173">编辑或添加链接</para>
+    <para id="id5718657">链接可以允许用户通过鼠标的点击自由地浏览不隶属于课程空间的相关信息或样例。链接可以在课程水平或是在个体模块水平上来定义。你对既有模块中的链接所做的任何变化只有在你课程空间的这个模块中才能体现出来。</para>
+    <para id="id1172298201354">编辑既有的链接</para>
+    <list id="id1172291371177" list-type="enumerated" number-style="arabic">
+      <item>点击课程纲要中的模块标题。模块的“编辑（edit）”标签就会在屏幕的右方出现。</item>
+      <item>单击“链接（Links）”标签。</item>
+      <item>在“链接编辑（Edit Links）”中对链接的“名称（Name）”、“链接类型（Link Type）”、“强度（Strength）”进行编辑。</item>
+      <item>当你不希望某个链接出现在你的模块中时，选择链接复选框中的“删除（Delete）”列。</item>
+      <item>点击“升级链接（Update Links）”。</item>
+    </list>
+    <para id="id1172302604515">当用户浏览模块时，对原始链接所做的修改就会呈现在“链接（Links）”工具条里。</para>
+    <figure id="id1172297213202">
+      <media id="id1172297213202_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics1-a02e.png" id="id1172297213202__onlineimage" height="352" width="386"/>
+      </media>
+    </figure>
+    <para id="id1172293412560">编辑链接</para>
+    <para id="id6721291">给模块添加链接</para>
+    <list id="id1172293728866" list-type="enumerated" number-style="arabic">
+      <item>点击课程纲要中的模块标题。模块的“编辑（edit）”标签就会在屏幕的右方出现。</item>
+      <item>单击“链接（Links）”标签。</item>
+      <item>输入新的链接，并在“添加新链接（Add a new link）”中的“输入名称（Enter a Name）”处输入链接的名称。</item>
+      <item>在“链接类型（Link Type）”的下拉菜单中选择链接的分类。</item>
+      <item>从“链接强度（Link Strenghth）”的下拉菜单中选择链接的重要性程度。</item>
+      <item>在“ID模块（Module ID）”或“URL链接（Link URL）”中输入链接的目标地址。</item>
+      <item>点击“添加（Add）”。</item>
+    </list>
+    <para id="id1172297644766">当用户浏览模块时，这个链接和原始链接（如果有的话）就会呈现在“链接（Links）”工具条里。</para>
+  </content>
+</document>

@@ -1,0 +1,19 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>课程预览</title>
+  <metadata>
+  <md:content-id>m25959</md:content-id><md:title>课程预览</md:title>
+  <md:abstract>进行课程预览</md:abstract>
+  <md:uuid>020f951a-0f9b-446d-be96-884a736653ad</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1166872271383">课程预览</para>
+    <para id="id1166871483218">点击Course Composer中的“预览（preview）”标签，就可以像学生浏览最后成品一样地在线演示、观看该课程。预览功能方便你检查课程的最终演示是否如你预期进行。</para>
+    <figure id="id1166872030269">
+      <media id="id1166872030269_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics1-e08e.png" id="id1166872030269__onlineimage" height="267" width="577"/>
+      </media>
+    </figure>
+    <para id="id1166872060750">课程预览</para>
+  </content>
+</document>

@@ -1,0 +1,191 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>introduction</title>
+  <metadata>
+  <md:content-id>m24854</md:content-id><md:title>introduction</md:title>
+  <md:abstract>本模块向大家简要介绍Connexions的概况。</md:abstract>
+  <md:uuid>3cdf7d11-03dc-4a87-a691-62bbffd1c3fc</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1171564228002">
+      <emphasis effect="bold">一、概括介绍</emphasis>
+    </para>
+    <para id="id1171558732266">Connexions是为教育及研究资料提供一个以网络为基础的文件建立及管理系统。Connexions包含两个部分：一个是Content Commons，用以存放资料的公共空间，另一个是用于建立、管理及存取这些资料的软件。Connexions的运作及其构成部分的概览，放置在Connexions首页上，“About”（关于）标签之下。</para>
+    <para id="id1171558533359">起初，Connexions的设计用以让资料共同协作发展、自由利用。教师及作者可出于任何教育目的修改这些资料。Connexions提供免费和开放的资源软件工具帮助学生、教师及作者管理这些资料资产，用以分享及提升知识以助益全球教育社群。所有这些的实现都通过使用Creative Commons Attribution license（创用CC）的授权许可。</para>
+    <para id="id1171560529187">Connexions的使用者一般可分为三类： </para>
+    <list id="id1171558698375" list-type="bulleted">
+      <item>Students 学生—使用Connexions获取在线信息，准备课业。 </item>
+      <item>Authors 作者—以模块的形式为Connexions输入内容。 </item>
+      <item>Instructors 教师—建立课程，课程是以一个特定目的，将相关的模块文件组合在一起。</item>
+    </list>
+    <figure id="id1171563433155">
+      <media id="id1171563433155_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics1-6235.png" id="id1171563433155__onlineimage" height="455" width="577"/>
+      </media>
+    </figure>
+    <para id="id1171560599830">图1：connexions 知识工厂</para>
+    <para id="id1171558822727">在使用connexions系统之前，您应检查您是否拥有所有必要的软件，请访问Connexions Quick Start Guide（Connexions快速检索卡），以了解您所需要的软件，查询链接以协助您下载软件。</para>
+    <para id="id1171558508563">
+      <emphasis effect="bold">二、界面及功能介绍</emphasis>
+    </para>
+    <para id="id1171558619816">
+      <emphasis effect="bold">Connexions首页</emphasis>
+    </para>
+    <para id="id1171558798398">Connexions首页是您使用Connexions开始的地方。包含以下各项：</para>
+    <list id="id1171558090095" list-type="bulleted">
+      <item>主页, 内容, 关于我们, 帮助, 以及我的CNX 标签 </item>
+      <item>导航栏 </item>
+      <item>搜索框以快速链接 </item>
+      <item>我的帐户及注册栏</item>
+      <item>重要内容栏</item>
+      <item>查找内容栏</item>
+      <item>创建内容栏</item>
+      <item>焦点栏 </item>
+      <item>Connexions新闻栏 </item>
+      <item>创建一个Connexions帐户 </item>
+    </list>
+    <para id="id1171559211321">这些项目也出现在其他Connexions网页上。</para>
+    <figure id="id1171560637057">
+      <media id="id1171560637057_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics2-aef1.png" id="id1171560637057__onlineimage" height="242" width="577"/>
+      </media>
+    </figure>
+    <para id="id1171560705339">图2：Connexions首页</para>
+    <para id="id1171557997187">
+      <emphasis effect="bold">首页、内容、关于我们、帮助以及我的CNX标签</emphasis>
+    </para>
+    <para id="id1171560952477">在Connexions首页的左上方是“首页”、“内容”、“关于我们”、“帮助”、“我的CNX”标签。点击这些标签显示Connexions以下网页：</para>
+    <list id="id1171558945102" list-type="bulleted">
+      <item>“主页”回到Connexions主页。</item>
+      <item>“内容”进入资料平台网页，在那里可以搜索模块和感兴趣的材料或者根据主题、作者、流行等浏览资料库。</item>
+      <item>“关于”是对Connexions的大致描述并链接到更多细节内容，它何如工作，后面是些什么人以及一个通讯录列表。</item>
+      <item>“帮助”页包括安装、参考以及其他信息的链接，回答使用者关于Connexions的问题。</item>
+      <item>“我的CNX”显示登陆后的作者主页，包括你的个人工作空间、工作组、镜头和你最近访问过的内容。</item>
+    </list>
+    <para id="id1171558532957">导航栏</para>
+    <para id="id1171560543507">「You are here」（您在这里）的导航栏位于“首页”、“资料”、“关于我们”、“帮助”、“我的CNX”标签之下。导航栏是显示您进入Connexions页面以来到当前页的轨迹。您可以点击导览列里的任何一处以回到该页面。这项功能对于在工作群组里进行各项目的工作之后，回到工作群组标准页面是相当有用的。</para>
+    <figure id="id1171558757672">
+      <media id="id1171558757672_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics3-88bf.png" id="id1171558757672__onlineimage" height="29" width="292"/>
+      </media>
+    </figure>
+    <para id="id1171560685130">图3：导航栏</para>
+    <para id="id1171560641502">
+      <emphasis effect="bold">搜索框以及快速链接</emphasis>
+    </para>
+    <para id="id1171564392862">如果您要在资料公共空间里搜寻特定的模块或课程时，您可以使用Connexions首页右上方的Search搜寻按键及文字框，在搜寻文字框里键入名称、关键字、课程标题、模块标题、字串或物体ID编号，并按下Search搜索按键。Connexions将显示符合您所输入文字的所有模块及课程列表。如要观看一个模块或课程，请点击该标题。</para>
+    <para id="id1171560952260">在搜索框上方是三个方便用户使用的快速链接。这些链接根据用户是否登陆系统而有所变化。</para>
+    <figure id="id1171558491060">
+      <media id="id1171558491060_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics4-ba31.png" id="id1171558491060__onlineimage" height="68" width="268"/>
+      </media>
+    </figure>
+    <para id="id1171558596373">图4：登陆前的快速链接</para>
+    <para id="id1171561094330">如果您已经拥有一个Connexions帐户并且已经登陆了系统，你可以点击此工具条执行以下操作：</para>
+    <list id="id1171558316313" list-type="bulleted">
+      <item>联系Connexions</item>
+      <item>报错</item>
+      <item>注销</item>
+    </list>
+    <figure id="id1171560695167">
+      <media id="id1171560695167_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics5-b181.png" id="id1171560695167__onlineimage" height="69" width="265"/>
+      </media>
+    </figure>
+    <para id="id1171560721084">图5：登陆后的快速链接</para>
+    <para id="id1171558628949">我的帐户及登陆栏</para>
+    <para id="id1171558675419">在Connexions主页的右边是用户帐户栏。它根据用户是否登陆而显示不同。</para>
+    <para id="id1171560700436">
+      <figure id="id1171558499227">
+        <media id="id1171558499227_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics6.png" id="id1171558499227__onlineimage" height="208" width="238"/>
+        </media>
+      </figure>
+    </para>
+    <para id="id1171563413515">图6：登陆前的我的帐户栏</para>
+    <para id="id1171560933777">上图显示的是未登陆或没有Connexions账号的状态。如果你已经拥有一个Connexions帐户，你可以在此登陆。此外，这里还有一个链接去找回密码（如果您忘记密码）以及申请一个新帐户。</para>
+    <figure id="id1171558732240">
+      <media id="id1171558732240_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics7.png" id="id1171558732240__onlineimage" height="188" width="219"/>
+      </media>
+    </figure>
+    <para id="id1171557820643">图7：登陆后的我的帐户栏</para>
+    <para id="id1171560606969">上图显示的是登陆Connexions之后的状态。包括登陆<emphasis effect="italics">MyCNX</emphasis>主页，修改帐户设置，收藏夹。如果您有一些未决的请求或是建议编辑的内容，也会显示在个人登陆框里。</para>
+    <para id="id1171558629572">
+      <emphasis effect="bold">重要内容栏</emphasis>
+    </para>
+    <para id="id1171557902750">重点内容的入口在主页的左侧，用来显示Connexions目前最流行最重要的内容，按数学、科学到学术焦点归类。</para>
+    <para id="id1171558628772">
+      <figure id="id1171558537237">
+        <media id="id1171558537237_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics8.png" id="id1171558537237__onlineimage" height="550" width="450"/>
+        </media>
+      </figure>
+    </para>
+    <para id="id1171560613426">图8：重要内容栏</para>
+    <para id="id1171560708605">
+      <emphasis effect="bold">查找内容栏</emphasis>
+    </para>
+    <para id="id1171558772127">您可以从主页的查询内容入口开始浏览Connexions的模块和资料。您可以在查询框内输入搜寻内容的关键词来查询你需要的内容，或者您也可以点击下方提供的主题、语言、流行度、标题和作者进行浏览。</para>
+    <para id="id1171558761959">
+      <figure id="id1171564538486">
+        <media id="id1171564538486_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics9.png" id="id1171564538486__onlineimage" height="253" width="576"/>
+        </media>
+      </figure>
+    </para>
+    <para id="id1171560979118">图9：查找内容栏</para>
+    <para id="id1171557116210">
+      <emphasis effect="bold">创建内容栏</emphasis>
+    </para>
+    <para id="id1171560591818">在Connexions创建内容很简单，创建内容入口帮助你创建自己的模块和内容。</para>
+    <figure id="id1171558534260">
+      <media id="id1171558534260_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics10.png" id="id1171558534260__onlineimage" height="304" width="577"/>
+      </media>
+    </figure>
+    <para id="id1171563425820">图10：创建内容栏</para>
+    <para id="id1171561481834">
+      <emphasis effect="bold">焦点栏</emphasis>
+    </para>
+    <para id="id1171563544168">焦点栏包括作者和内容，Connexions用户的反馈以及和Connexions相关的事件。</para>
+    <para id="id1171560598522">
+      <figure id="id1171558821719">
+        <media id="id1171558821719_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics11.png" id="id1171558821719__onlineimage" height="350" width="224"/>
+        </media>
+      </figure>
+    </para>
+    <para id="id1171558766244">图11：焦点栏</para>
+    <para id="id1171565523718">新闻栏</para>
+    <para id="id1171558657128">这里包括Connexions最近更新的新闻事件，包括Connexions一些重要的更新到外部出版物的新闻事件。</para>
+    <figure id="id1171558602695">
+      <media id="id1171558602695_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics12.png" id="id1171558602695__onlineimage" height="258" width="216"/>
+      </media>
+    </figure>
+    <para id="id1171558629975">图12：新闻栏</para>
+    <para id="id1171560542546">账号申请</para>
+    <para id="id1171564670735">要申请一个Connexions帐号，请依下列步骤：</para>
+    <list id="id1171562922814" list-type="enumerated" number-style="arabic">
+      <item>在我的帐户栏中点击申请一个帐户。接着申请帐户的页将显示如下：</item>
+    </list>
+    <figure id="id1171564407257">
+      <media id="id1171564407257_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics13.png" id="id1171564407257__onlineimage" height="370" width="576"/>
+      </media>
+    </figure>
+    <para id="id1171559656356">图13：账号申请页面</para>
+    <list id="id1171558629896" list-type="enumerated" number-style="arabic">
+      <item>请输入您的名称、姓名、电子信箱、及首页网址。旁边有红色方块的区域是必填项目。</item>
+      <item>输入一个用户名。</item>
+      <item>阅读许可协议书并选择已阅读协议前面的小方框。</item>
+      <item>点击申请帐户按钮，接着显示“申请完成”，Connexions发送邮件至所填邮箱。此邮件包括激活帐户的方法。</item>
+    </list>
+    <para id="id1171558632175">登陆及注销</para>
+    <list id="id1171557863418" list-type="bulleted">
+      <item>要登陆Connexions，请在我的帐户栏里输入您的用户名及密码，点击Log in登陆按钮。</item>
+      <item>要注销，点击Connexions首页右上方搜索栏上面的Log out注销按钮。</item>
+    </list>
+  </content>
+</document>

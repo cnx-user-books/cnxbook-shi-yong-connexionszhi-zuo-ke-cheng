@@ -1,0 +1,41 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>创建新课程</title>
+  <metadata>
+  <md:content-id>m25945</md:content-id><md:title>创建新课程</md:title>
+  <md:abstract/>
+  <md:uuid>d8ed7c6f-4516-424c-90a1-22ef93b75c75</md:uuid>
+</metadata>
+
+<content>
+    <para id="id7318716">创建新课程</para>
+    <para id="id9011822">创建一门新的课程与创建新的课程是相似的，你可以从你的工作空间或工作组里登陆course composer。</para>
+    <list id="id8386841" list-type="enumerated" number-style="arabic">
+      <item>选择“create New Item”按钮旁的下拉菜单，点击“create New Item”。这时，屏幕上会出现“New Content: Licensing”</item>
+      <item>如果你认同将课程放在Course composer的贡献许可，选择屏幕底端的复选框。</item>
+      <item>点击next。这时会出现元数据的标签和告知你课程已经建立的信息，在屏幕的右边会出现课程状态的工具条，工具条显示了课程的当前状态、上一次动作、课程的创建者和课程的创建时间。</item>
+    </list>
+    <figure id="id5797097">
+      <media id="id5797097_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics1-b12e.png" id="id5797097__onlineimage" height="434" width="214"/>
+      </media>
+    </figure>
+    <para id="id5524695">工具条</para>
+    <para id="id7571939">输入识别新课程的元数据</para>
+    <list id="id1473624" list-type="enumerated" number-style="arabic">
+      <item>course composer中的元数据标签</item>
+      <item>在元数据区输入合适的信息，包括：<list id="id8090254" list-type="bulleted"><item>课程名称（必须）</item><item>院系名称-适合教学该课程的院系</item><item>课程代码-类别号，比如：BIO 201</item><item>教师信息-教授该课程的老师</item><item>课程主页-以http://开头的URL全地址。比如，课程的通知或是课程大纲页面</item><item>关键词-帮助用户搜索课程的术语</item><item>摘要-对该课程的简要介绍（必须）</item></list></item>
+    </list>
+    <para id="id7635414">如果你没有输入“必须”区域的信息，当你点击“保存（save）”来保存元数据时，系统会再次要求你输入该信息。</para>
+    <list id="id1202515" list-type="enumerated" number-style="arabic">
+      <item>点击“保存（save）”。输入的元数据信息会被保存，并且“内容（content）”标签会与课程的名称一起呈现。你可以利用标签来做课程的整合。它包含两个区域。标签左边是课程提纲的展示，标签右边是你添加、调整、移除课程内容对象的地方。</item>
+    </list>
+    <para id="id1170317624486">
+      <figure id="id2169996">
+        <media id="id2169996_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics2-a6a5.png" id="id2169996__onlineimage" height="304" width="576"/>
+        </media>
+      </figure>
+    </para>
+    <para id="id1170323067684">课程元数据</para>
+  </content>
+</document>

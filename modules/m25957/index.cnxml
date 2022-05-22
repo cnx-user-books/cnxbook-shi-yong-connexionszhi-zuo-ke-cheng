@@ -1,0 +1,25 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>设置注释参数</title>
+  <metadata>
+  <md:content-id>m25957</md:content-id><md:title>设置注释参数</md:title>
+  <md:abstract>如何进行注释参数的设置</md:abstract>
+  <md:uuid>99a53479-956d-41f4-b17d-d47b9bd36ff9</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1172300943223">设置注释参数</para>
+    <para id="id1172298657988">在不同的课程中可能会有不同的表达方法来表示同一种事物，如vectors（向量表示法）和imaginary numbers（虚数表示法）。你可以通过以下的操作步骤来在你的课程中设置这些称谓的表达参数：</para>
+    <list id="id1172299336848" list-type="enumerated" number-style="arabic">
+      <item>点击Course Composer中的“参数（parameter）”标签。</item>
+      <item>选择理想的注释类型。默认值一般出现在第一列。</item>
+      <item>点击“属性升级（Update Properties）”.</item>
+    </list>
+    <para id="id1172300970326">Connexions会将定义的注释参数应用到课程中的所有模块。</para>
+    <figure id="id1172301187967">
+      <media id="id1172301187967_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics1-0795.png" id="id1172301187967__onlineimage" height="520" width="576"/>
+      </media>
+    </figure>
+    <para id="id1172296074494">注释参数选择</para>
+  </content>
+</document>

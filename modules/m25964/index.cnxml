@@ -1,0 +1,81 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>添加模块</title>
+  <metadata>
+  <md:content-id>m25964</md:content-id><md:title>添加模块</md:title>
+  <md:abstract>如何在课程中添加模块</md:abstract>
+  <md:uuid>2fd7a249-3b4c-410e-84f1-7dcaacc4a6a4</md:uuid>
+</metadata>
+
+<content>
+    <para id="id4257561">添加模块</para>
+    <para id="id1166396384175">你可以将“content commons”中，或者从课程本身的工作空间或工作组中已发布的模块添加到你的课程中来。当添加模块时，connexions并不是将模块复制到你的课程里，模块依然留在“content commons”中，并且connexions会在你的课程中插入一个引用出处或是指示。任何新模块或者已有的模块都可以按如下方式添加到课程中：</para>
+    <list id="id1166396363102" list-type="bulleted">
+      <item>同一个模.块不能被插入课程中超过一次。</item>
+      <item>模块只有在connexions中经发布以后，才能被插入课程。</item>
+      <item>用户可以利用标题、名称、作者、关键词、或者字符串来搜索模块。</item>
+    </list>
+    <para id="id1166400096702">如果没有出现匹配的搜索内容，connexions就会提供一些搜索建议。</para>
+    <para id="id8747365">添加来自content commons的模块</para>
+    <para id="id1166395133201">如果想在content commons中搜索模块并将它添加到你的课程中，则可以按以下的步骤来进行：</para>
+    <list id="id8553149" list-type="enumerated" number-style="arabic">
+      <item>如果内容标签没有显示，则在course composer中选择“内容（contents）”标签</item>
+      <item>在课程纲要你想插入模块的地方点击标题项，标题可以为课程标题、节段标题或子节段标题。</item>
+      <item>在搜索框里输入与模块相关的词或字符串</item>
+      <item>取消“课程（course）”复选框的选择，然后选择“模块（module）”一项。</item>
+      <item>点击“搜索（search）”。所有能与搜索条件匹配的模块都会出现在清单里，如果匹配结果不止一页，那其他页的匹配结果也会列出来。</item>
+    </list>
+    <para id="id1166396507887">
+      <figure id="id1166397735634">
+        <media id="id1166397735634_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics1-480f.png" id="id1166397735634__onlineimage" height="522" width="504"/>
+        </media>
+      </figure>
+    </para>
+    <para id="id8622755"/>
+    <para id="id1166400122718">添加模块</para>
+    <list id="id1166396552867" list-type="enumerated" number-style="arabic">
+      <item>选择你想添加的模块的复选框</item>
+      <item>点击“添加选择内容（Add Selected Content）”</item>
+    </list>
+    <para id="id1166396339076">这时，你所选择的模块的标题就会出现在课程纲要中你所添加的节段之下了。</para>
+    <figure id="id1166397779951">
+      <media id="id1166397779951_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics2-7600.png" id="id1166397779951__onlineimage" height="285" width="525"/>
+      </media>
+    </figure>
+    <para id="id1166397429773">添加来自工作空间或工作组的模块</para>
+    <para id="id1166396769207">如果想要从你的工作空间或工作组提取模块来添加到你的课程里，可以按如下的步骤来执行：</para>
+    <list id="id6353524" list-type="enumerated" number-style="arabic">
+      <item>显示包含有课程和模块的工作空间或工作小组的内容标签</item>
+      <item>选择你中意的模块的复选框。在这里你只能选择处于“已发布（published）”状态的模块。</item>
+      <item>点击“复制（copy）”。这时会出现该项已被复制的对话框。</item>
+      <item>点击课程标题登陆course composer。此时粘贴按钮、剪切按钮、复制按钮及删除按钮都会出现在“内容（content）”标签旁。</item>
+      <item>在你想插入模块的节段处点击节段的标题。</item>
+      <item>在“内容（content）”标签处点击“粘贴（Paste）”。</item>
+    </list>
+    <para id="id1166395132178">这时，你所选择的模块的标题就会出现在课程纲要中你所添加的节段之下了。</para>
+    <para id="id1166396398514">提示：如果你尝试添加未经发布的模块，错误信息的对话框就会出现。如果要确认你想添加的模块是否经过发布，可以在你的工作空间的“内容（content）”标签处的“状态（state）”一列进行查看。</para>
+    <para id="id1166397556230">修改模块的标题</para>
+    <para id="id8621790">Content commons中的模块的标题都是制作该模块的作者决定的，如果模块的标题并不适合你的课程空间的时候，你可以给这个模块提供一个替代的标题。当登入进入你的课程之后，模块就会显示这个修改后的标题。在从你的课程空间之外登陆这个模块的时候，该模块都会显示它的原始标题。</para>
+    <para id="id1166394323705">你可以按如下步骤进行操作：</para>
+    <list id="id1166400062384" list-type="enumerated" number-style="arabic">
+      <item>点击课程纲要中的模块标题。模块的“编辑（edit）”标签会出现在屏幕的右方。</item>
+      <item>在“标题修改（Alternate Title）”处键入模块的新标题。</item>
+      <item>点击“保存（save）”</item>
+    </list>
+    <para id="id7131684">这些操作之后，模块的的标题就会改变会修改之后的新标题了。</para>
+    <para id="id8604995">选择模块版本</para>
+    <para id="id1166400108606">当模块被升级或是被编辑之后，connexions就会保存模块之前的版本，并提供最新的版本来给用户浏览。模块的每一个新版本都有一个版本号，你可以在你的课程中选择任何一种版本。</para>
+    <list id="id1166396488704" list-type="enumerated" number-style="arabic">
+      <item>在课程纲要里点击模块的标题。模块的“编辑（edit）”标签就会出现在屏幕的右方。</item>
+      <item>选择你决定在课程中使用的模块版本的单选按钮。默认值是“总是选用最新版本（Always uses newest version）”</item>
+      <item>点击“保存（save）”</item>
+    </list>
+    <figure id="id7536830">
+      <media id="id7536830_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics3-cd30.png" id="id7536830__onlineimage" height="332" width="576"/>
+      </media>
+    </figure>
+    <para id="id1166396792462">模块版本选择</para>
+  </content>
+</document>

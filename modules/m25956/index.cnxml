@@ -1,0 +1,89 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>给合作作者分配角色</title>
+  <metadata>
+  <md:content-id>m25956</md:content-id><md:title>给合作作者分配角色</md:title>
+  <md:abstract>如何为课程合作者分配角色</md:abstract>
+  <md:uuid>5e2898c5-16aa-42da-a6bb-928614ca168e</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1167411236811">给合作作者分配角色</para>
+    <para id="id5673132">作为课程的创建者，你将扮演三个角色：作者、课程维护者及版权持有者。</para>
+    <figure id="id8558727">
+      <media id="id8558727_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics1-2a40.png" id="id8558727__onlineimage" height="98" width="576"/>
+      </media>
+    </figure>
+    <list id="id1167408762576" list-type="bulleted">
+      <item>作者可以因为编写教学材料而得到一定积分。作者是指负责创建课程的人员，但不一定是实际将教学材料导入Connexions的人。每个模块或课程在Connexions上发布之前，都需要有至少一位作者。</item>
+      <item>课程维护者将可以编辑和发布课程的后续版本。大多数作者事实上也将是课程的维护者，当然也有些作者将会将这个任务交给别人来做。作者是可以将这个维护权限交给助手来帮助其进行课程材料的升级的。</item>
+      <item>版权持有者将拥有该课程的合法许可权。在大多数情况下，版权的持有者就是作者本人，不过当教师或雇员签了合同将版权移交院系所属时，版权的持有者就是院系，而教师或雇员只是作者和课程维护者了。</item>
+    </list>
+    <figure id="id8834508">
+      <media id="id8834508_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics2-20bf.png" id="id8834508__onlineimage" height="248" width="577"/>
+      </media>
+    </figure>
+    <para id="id1167407599508">你可以给其他你想与其合作制作课程的connexions用户分配一个或多个角色。“角色（role）”标签有定位这些用户的搜索功能。课程的当前合作者会按角色列在“角色（role）”标签的“当前角色（current roles）”下。你可以通过在“改变角色（change roles）”下的“作者（Author）”、“课程维护者（Maintainers）”、“版权持有者（Copyright Holder）”各列的复选框中选择或取笑选择来给其他合作者来分配角色。下面是进行角色分配和角色升级的操作方法。</para>
+    <para id="id1167402251960">当你在课程中分配或升级角色时，只有当其他用户接受了你的角色分配并且你发布了你的课程，你对角色所做的改动才能有效。Connexions给与了其他用户选择或是拒绝某个角色的权利。如果在你的课程中还存在准角色（即分配的角色既未被接受也未被拒绝时的状态），那你的课程就不能被发布。一旦合作者接受了你的角色分配或是角色升级，你也必须发布你的课程来公布你的合作者。Connexions会来查看发布后课程的作者、课程维护者和版权持有者。</para>
+    <para id="id1167415516408">提示：你在connexions上发布课程或是模块之前，所有的经添加或改变的准角色必须经过各角色的分配用户（作者、课程维护者、版权持有者）的接受或是拒绝。并且，你也需要在connexions查看课程的角色状态之前发布你包含新角色的课程。</para>
+    <para id="id1958400">给工作组外的用户分配角色</para>
+    <para id="id2303774">如果想给工作组外的用户分配角色可以进行以下的操作：</para>
+    <list id="id3531339" list-type="enumerated" number-style="arabic">
+      <item>点击“角色（Roles）”标签；</item>
+      <item>在“搜索(search)”框里键入你想将角色进行分配的对象用户的名字。</item>
+      <item>点击“搜索（search）”。这时，凡能与你的搜索条件匹配的connexions用户都会显示。</item>
+      <item>选择你想选择作为合适人选的用户名字旁的复选框，点击“添加人员（People）”。这时，合作者的名字就会和作者、课程维护者、版权持有者一起出现在“当前角色（Current Roles）”下及“角色改变（Change Roles）”下的表格里，在这两个地方，合作者都会作为准角色出现。</item>
+      <item>查看“角色改变（Change Roles）”下的表格，确认你已经在复选框的“作者（Author）”、“课程维护者（Maintainers）”、“版权持有者（Copyright Holder）”各列中对合作用户的角色进行了选择。必要的话，你还可以点击复选框修改角色。</item>
+      <item>点击“提交修改（Submit Changes）”。当下次合作用户登陆conexions的时候，他（她）都会被通知处理角色请求。除非用户自己选择接受该请求，不然Connexions不会擅自将角色强加给该用户。<figure id="id5016982"><media id="id5016982_media" alt=""><image mime-type="image/png" src="../../media/graphics3-adf3.png" id="id5016982__onlineimage" height="330" width="576"/></media></figure></item>
+    </list>
+    <para id="id1167412330593">给工作组内的成员分配角色</para>
+    <para id="id1167413138120">如果要给你课程工作组内的成员分配角色，则可以按如下步骤进行操作：</para>
+    <list id="id8495711" list-type="enumerated" number-style="arabic">
+      <item>点击“角色（Roles）”标签。</item>
+      <item>点击链接“从当前工作组中进行选择（Select from members of your current workgroup）”。这时，一个含有所有工作组成员的名单就会显示在链接之下。</item>
+      <item>将你想选择的成员的名字放在角色分配的表格中，并在复选框中对作者、课程维护者、版权持有者各角色进行相应的选择。</item>
+      <item>点击“添加人员（People）”。这时，合作者的名字就会和作者、课程维护者、版权持有者一起出现在“当前角色（Current Roles）”下及“角色改变（Change Roles）”下的表格里，在这两个地方，合作者都会作为准角色出现。</item>
+    </list>
+    <para id="id3798425">
+      <figure id="id6215778">
+        <media id="id6215778_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics4-0182.png" id="id6215778__onlineimage" height="208" width="576"/>
+        </media>
+      </figure>
+    </para>
+    <para id="id8834906">当下次合作用户登陆conexions的时候，他（她）都会被通知处理角色请求。除非用户自己选择接受该请求，不然Connexions不会擅自将角色强加给该用户。</para>
+    <para id="id1167409635927">修改作者的出现顺序</para>
+    <para id="id4694003">如果要在课程中改变作者名字的出现顺序，可以按照一下步骤进行操作：</para>
+    <list id="id8526592" list-type="enumerated" number-style="arabic">
+      <item>点击“角色（Roles）”标签。</item>
+      <item>查看并确认所有拥有作者角色的用户在被列在“角色改变（Change Roles）”表格中。并在“角色调整(Adjust Roles)”列中的复选框中选择或者取消选择，从而对课程的角色做必要的添加或调整。</item>
+      <item>点击“提交修改（Submit Changes）”。如果你没有保存你的修改数据，那么你所进行的下一步操作就会丢失你的角色修改数据。</item>
+      <item>通过点击上下箭头来调整作者在模块中的出现顺序。单箭头能让作者名字上移或下移一步，双箭头则可以让作者名字移至列首或列尾。</item>
+    </list>
+    <para id="id1167409591094">如果要让作者的名字在课程中出现在第一位，他（她）的名字必须置于“角色改变（Change Roles）”表格的顶部。表格从上往下的第二个名字将是课程中出现的第二个作者名字，以此类推。</para>
+    <figure id="id2963378">
+      <media id="id2963378_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics5-d072.png" id="id2963378__onlineimage" height="128" width="576"/>
+      </media>
+    </figure>
+    <para id="id8771299">修改角色分配</para>
+    <para id="id8451248">如果要在课程中修改先前所分配好的用户角色，可以按以下步骤进行操作：</para>
+    <list id="id1167407700580" list-type="enumerated" number-style="arabic">
+      <item>点击“角色（Roles）”标签。</item>
+      <item>将你想进行角色修改的用户对象的名字放在“角色改变（Change Roles）”表格中。</item>
+      <item>点击包含标记号的复选框，这时标记号会消除，即取消了该用户对象上的角色分配。同时点击复选框其他空标记处的其他用户对象，标记号即会出现，新的角色分配完成。</item>
+      <item>点击“提交修改（Submit Changes）”。升级后的“角色改变（Change Roles）”表格会显示角色分配新的变化，并且会提示角色的变化还有待对方用户的接受。</item>
+    </list>
+    <para id="id3836493">当下次合作用户登陆conexions的时候，他（她）都会被通知处理角色请求。除非用户自己选择接受该请求，不然Connexions不会擅自将角色强加给该用户。</para>
+    <para id="id4461953">移除课程合作者</para>
+    <para id="id1167412257508">如果要从课程中移除合作者，则可以按下列步骤进行操作：</para>
+    <list id="id2883241" list-type="enumerated" number-style="arabic">
+      <item>点击“角色（Roles）”标签。</item>
+      <item>将你想其角色移除的用户对象的名字置于“角色改变（Change Roles）”表格中。</item>
+      <item>通过点击“用户移除（Remove User）”列的复选框来删除你想移除的用户。</item>
+      <item>点击“提交修改（Submit Changes）”。升级后的“角色改变（Change Roles）”表格中将不再出现经移除的用户对象的名字。</item>
+    </list>
+    <para id="id1167409764908">当下次合作用户登陆conexions的时候，他（她）都会被通知处理角色移除请求。除非用户自己选择接受该请求，不然Connexions不会擅自删除该用户的合作者角色。</para>
+  </content>
+</document>

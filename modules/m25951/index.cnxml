@@ -1,0 +1,41 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>创建段节</title>
+  <metadata>
+  <md:content-id>m25951</md:content-id><md:title>创建段节</md:title>
+  <md:abstract>如何创建段节</md:abstract>
+  <md:uuid>d46d02f7-8821-4712-a45f-ae1c0d232923</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1172293796251">添加新的段节</para>
+    <para id="id1172297640483">段节是指课程内相关模块的组合。每个段节都有一个标题来帮助用户识别其内容。你可以将一个段节嵌套在另一个段节中，创建字段节。</para>
+    <list id="id1172291076758" list-type="enumerated" number-style="arabic">
+      <item>在“course composer”中选择“内容（contents）”标签</item>
+      <item>如果课程没有显示，在课程纲要中点击课程名称。这是课程纲要中最高层级的对象。</item>
+      <item>如果“内容（contents）”标签被隐藏，应将其显示。</item>
+      <item>在“内容（contents）”标签中点击“添加新节段（add new section）”，这时新的节段就被添加在课程纲要中已显示的节段下。“编辑（edit）”标签含有空白的“名称（title）”区域，用来填写节段的名称。</item>
+      <item>在“名称（title）”区域中输入节段的名称</item>
+      <item>点击“保存（save）”</item>
+    </list>
+    <para id="id1172291028991">你输入的节段名称将会在课程纲要中出现，这时，你可以在显示的节段里添加子节段或模块。</para>
+    <figure id="id1172290749104">
+      <media id="id1172290749104_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics1-2d9b.png" id="id1172290749104__onlineimage" height="334" width="576"/>
+      </media>
+    </figure>
+    <para id="id1172290804667">增加新段节</para>
+    <para id="id1172291087934">
+      <emphasis effect="bold">添加新的子段节</emphasis>
+    </para>
+    <para id="id1172290703425">子段节是指一个段节内相关模块的组合。每个子段节都有一个标题来帮助用户识别其内容。你可以将一个段节嵌套在另一个段节中，创建字段节。</para>
+    <list id="id1172290725127" list-type="enumerated" number-style="arabic">
+      <item>在“course composer”中选择“内容（contents）”标签</item>
+      <item>如果课程没有显示，在课程纲要中点击课程名称。</item>
+      <item>如果“内容（contents）”标签被隐藏，应将其显示。</item>
+      <item>在“内容（contents）”标签中点击“添加新节段（add new section）”，这时新的子节段就添加在课程纲要中已显示的节段下。“编辑（edit）”标签含有空白的“名称（title）”区域，用来填写子节段的名称。</item>
+      <item>在“名称（title）”区域中输入子节段的名称</item>
+      <item>点击“保存（save）”</item>
+    </list>
+    <para id="id1172300173800">你输入的子节段名称将会在课程纲要中出现，这时，你可以在显示的子节段里添加课程内容。</para>
+  </content>
+</document>
